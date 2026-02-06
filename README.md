@@ -15,10 +15,10 @@ This project analyses transactional data to identify customer segments, revenue 
 - Built an interactive Power BI dashboard to visualize KPIs and business trends.
 
 ## Project Assets
-- 📄 Project Report (PDF): *link here*
-- 🐍 Python Scripts: *link here*
-- 🗄️ SQL Queries: *link here*
-- 📊 Power BI Dashboard: *link here*
+-  Project Report (PDF): Included in repository
+-  Python Scripts:Included in repository
+-  SQL Queries: Included in repository
+-  Power BI Dashboard: Included in repository
 
 ## Outcome
 The analysis provided clear insights into customer behaviour, purchasing patterns, and revenue contribution, enabling data-driven decision-making.
