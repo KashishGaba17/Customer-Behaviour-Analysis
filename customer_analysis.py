@@ -47,8 +47,8 @@ from sqlalchemy import create_engine
 from urllib.parse import quote_plus
 
 username = "root"
-password = quote_plus("Kashdata17@")  # IMPORTANT
-host = "127.0.0.1"                    # also important
+password = quote_plus("Kashdata17@")  
+host = "127.0.0.1"                    
 port = "3306"
 database = "customer_behavior"
 
@@ -73,5 +73,6 @@ engine = create_engine(
 engine.connect()
 print("Connected successfully!")
 
-table_name = "customer"   # choose any table name
+table_name = "customer"   
 df.to_sql(table_name, engine, if_exists="replace", index=False)
+
